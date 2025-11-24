@@ -1,7 +1,7 @@
 import tkinter as tk
 import pygame
 import os
-from PIL import Image, ImageTkgit remote -v
+from PIL import Image, ImageTk
 
 pygame.mixer.init()
 
